@@ -1,1 +1,2 @@
-# C22-8bit-Student-boiler-plate-main
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
